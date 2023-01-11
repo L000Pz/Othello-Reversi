@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(45, 45, 45);
+    font-family: 'Rubik', sans-serif;
+}
+.arranger{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+    width: 100%;
+}
+#board{
+    overflow: hidden;
+}
+#blackBack{
+   
+    background-color: rgb(45, 45, 45);
+}
+#pieceHolder,#guide{
+    position: absolute;
+    top: 0;
+}
+#scoreWhite{
+    
+    
+    
+    width: 250px;
+    font-size: 48px;
+    background-color: rgb(45, 45, 45);
+    color: white; 
+    text-align: center;
+}
+#scoreBlack{
+    
+    
+    
+    width: 250px; 
+    font-size: 48px; 
+    background-color: rgb(45, 45, 45);
+    color: white; 
+    text-align: center;
+}
