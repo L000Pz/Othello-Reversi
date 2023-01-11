@@ -33,7 +33,7 @@ It's simple you don't have to do anything but to chose your color and your frien
 
 ## Author Info
 
-This code is live on [TicTacToe](https://github.com/L000Pz/TicTacToe), feel free to use it.
+This code is live on [Othello-Reversi](https://github.com/L000Pz/TicTacToe), feel free to use it.
 
 I would appreciate your comments on the code. I'm an amateur programmer and open to all opinions.😊
 
