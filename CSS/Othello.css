@@ -23,9 +23,6 @@ body{
     top: 0;
 }
 #scoreWhite{
-    
-    
-    
     width: 250px;
     font-size: 48px;
     background-color: rgb(45, 45, 45);
@@ -33,9 +30,6 @@ body{
     text-align: center;
 }
 #scoreBlack{
-    
-    
-    
     width: 250px; 
     font-size: 48px; 
     background-color: rgb(45, 45, 45);
