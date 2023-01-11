@@ -25,7 +25,7 @@ Here we have the source code for the game, feel free to explore and find new bug
 
 #### Starting the game
 
-It's simple you don't have to do anything but to chose your color and your friends color and then start clicking the board. There's a guide for each players' move so place your pieces when the board is full or one oof you can't put any other piece the game's done. The player with more pieces on the board wins.
+It's simple you don't have to do anything but to chose your color and your friends color and then start clicking the board. There's a guide for each players' move, so place your pieces. When the board is full or one of you can't put any other piece the game's done. The player with more pieces on the board wins.
 
 [Back To The Top](#othello-reversi)
 
